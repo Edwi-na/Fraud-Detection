@@ -10,3 +10,7 @@ I have conducted analysis in different industries to detect frauds, including
 * Mortgage Probability of Default & Fraud (pending)
 * HealthCare
 
+* Modeling Approaches:
+In HealthCare, I have conducted HBOS model in the PyOD module with 4 aggregation methods to better seperate the outliers from normal and has a higher prediction accuracy. 
+
+
